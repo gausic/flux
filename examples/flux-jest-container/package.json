@@ -41,7 +41,6 @@
     ],
     "rootDir": "",
     "testPathDirs": [
-      "<rootDir>/src"
     ]
   }
 }
